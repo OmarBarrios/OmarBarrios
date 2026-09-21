@@ -93,13 +93,14 @@
 
 ---
 
-<!-- Estadísticas Simplificadas y Funcionales -->
+<!-- Estadísticas Funcionales -->
 <h2>📊 Métricas de Desarrollo</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarbarrios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbarrios&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes Top" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarbarrios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarbarrios&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes Top" />
+  </a>
 </div>
